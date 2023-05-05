@@ -7,3 +7,5 @@ docker exec -i example-db-1 mysql -u root -pmy_root_password my_db < ./app/src/m
 
 
 GET http://localhost:82/users
+
+GET http://localhost:82/users/1
