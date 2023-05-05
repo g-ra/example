@@ -1,0 +1,1 @@
+INSERT INTO my_db.users (name, email, password, created_at, updated_at) VALUES ('qwe', 'qwe', 'qwe', '2023-05-05 15:05:49', '2023-05-05 15:05:51');
