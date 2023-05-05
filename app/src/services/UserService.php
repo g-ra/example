@@ -12,7 +12,7 @@ class UserService
         return User::all();
     }
 
-    public function findByID(Request $request, $id)
+    public function findByID ($id)
     {
         return User::find($id);
     }
